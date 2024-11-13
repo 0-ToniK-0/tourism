@@ -1,0 +1,371 @@
+{
+  "locations": [
+    {
+      "id": "1",
+      "name": "Akkar",
+      "district_locations": []
+    },
+    {
+      "id": "2",
+      "name": "Baalbek-Hermel",
+      "district_locations": [
+        {
+          "id": "baalbek",
+          "image": "https://crm.visit-lebanon.org/alternatedocroots/7c8210d5-3917-40b3-b2d7-73a197a2f4ca-shutterstock_373233778.jpg",
+          "title": "Baalbek",
+          "shortDesc": "The city where ancient Roman grandeur meets timeless mystique in Lebanon's majestic temple ruins.",
+          "content": "Discover the ancient temples of Baalbek.",
+          "hist": "Baalbek, often referred to as the \"City of the Sun,\" is a UNESCO World Heritage Site renowned for its spectacular Roman ruins, including the majestic Temple of Jupiter, the Temple of Bacchus, and the Temple of Venus. Nestled in the Bekaa Valley, Baalbek offers visitors a unique glimpse into ancient history, with stunning architecture that reflects its significance as a center of worship and pilgrimage in antiquity. The city hosts the annual Baalbek International Festival, showcasing music and arts against the backdrop of its historic temples. Don't miss the opportunity to explore the vibrant local markets and savor traditional Lebanese cuisine while enjoying the breathtaking views of the surrounding mountains.",
+          "images": [
+            "https://crm.visit-lebanon.org/alternatedocroots/7c8210d5-3917-40b3-b2d7-73a197a2f4ca-shutterstock_373233778.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/a7306b5b-a97e-48af-9ac8-805da95952b1-shutterstock_1041411607.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/626e133f-4c44-4a97-98f2-0a314ddd21fa-shutterstock_615098444.jpg",
+            "https://nawafir-tours.com/wp-content/uploads/2023/11/Baalbek-09.jpg",
+            "https://img.freepik.com/premium-photo/ruins-ancient-city-baalbek-lebanon_868179-134.jpg?w=900",
+            "https://crm.visit-lebanon.org/alternatedocroots/c9358294-b57b-45b0-8175-a58d51506638-shutterstock_215886847.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/aa80f612-f381-4276-80cf-d7ec270f2bc7-shutterstock_51945778.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/2d1c9a92-dd49-4e91-b65c-7bdf32a06c7f-shutterstock_661181824.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/cc544159-2ade-44d8-98f3-f3f5c8ae57d6-shutterstock_724532998.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/7692746f-260b-40c1-957d-7a64a5726f95-shutterstock_1022736928.jpg"
+          ],
+          "entrance": "$10 per person",
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d422727.8988463228!2d36.2509678!3d34.131968699999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15189651c27cbfaf%3A0xc044bcb62fbbe03c!2sBaalbek!5e0!3m2!1sen!2slb!4v1730583543256!5m2!1sen!2slb",
+          "stars": 5
+        },
+        {
+          "id": "baalbek",
+          "image": "https://lh3.googleusercontent.com/p/AF1QipMWH43IucLrh2RPYn8wRtkETj8VDcqQiw2deUWR=s1360-w1360-h1020-rw",
+          "title": "Sayyida Khawla Shrine",
+          "shortDesc": "The city where ancient Roman grandeur meets timeless mystique in Lebanon's majestic temple ruins.",
+          "content": "Discover the ancient temples of Sayyida Khawla Shrine.",
+          "hist": "Sayyida Khawla Shrine, often referred to as the \"City of the Sun,\" is a UNESCO World Heritage Site renowned for its spectacular Roman ruins, including the majestic Temple of Jupiter, the Temple of Bacchus, and the Temple of Venus. Nestled in the Bekaa Valley, Baalbek offers visitors a unique glimpse into ancient history, with stunning architecture that reflects its significance as a center of worship and pilgrimage in antiquity. The city hosts the annual Baalbek International Festival, showcasing music and arts against the backdrop of its historic temples. Don't miss the opportunity to explore the vibrant local markets and savor traditional Lebanese cuisine while enjoying the breathtaking views of the surrounding mountains.",
+          "images": [
+            "https://crm.visit-lebanon.org/alternatedocroots/7c8210d5-3917-40b3-b2d7-73a197a2f4ca-shutterstock_373233778.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/a7306b5b-a97e-48af-9ac8-805da95952b1-shutterstock_1041411607.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/626e133f-4c44-4a97-98f2-0a314ddd21fa-shutterstock_615098444.jpg",
+            "https://nawafir-tours.com/wp-content/uploads/2023/11/Baalbek-09.jpg",
+            "https://img.freepik.com/premium-photo/ruins-ancient-city-baalbek-lebanon_868179-134.jpg?w=900",
+            "https://crm.visit-lebanon.org/alternatedocroots/c9358294-b57b-45b0-8175-a58d51506638-shutterstock_215886847.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/aa80f612-f381-4276-80cf-d7ec270f2bc7-shutterstock_51945778.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/2d1c9a92-dd49-4e91-b65c-7bdf32a06c7f-shutterstock_661181824.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/cc544159-2ade-44d8-98f3-f3f5c8ae57d6-shutterstock_724532998.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/7692746f-260b-40c1-957d-7a64a5726f95-shutterstock_1022736928.jpg"
+          ],
+          "entrance": "$10 per person",
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d422727.8988463228!2d36.2509678!3d34.131968699999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15189651c27cbfaf%3A0xc044bcb62fbbe03c!2sBaalbek!5e0!3m2!1sen!2slb!4v1730583543256!5m2!1sen!2slb",
+          "stars": 5
+        },
+        {
+          "id": "baalbek",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/2f/84/8b/rosary-of-lebanon-final.jpg?w=900&h=500&s=1",
+          "title": "Rosary Of Lebanon",
+          "shortDesc": "The city where ancient Roman grandeur meets timeless mystique in Lebanon's majestic temple ruins.",
+          "content": "Discover the ancient temples of Baalbek.",
+          "hist": "Baalbek, often referred to as the \"City of the Sun,\" is a UNESCO World Heritage Site renowned for its spectacular Roman ruins, including the majestic Temple of Jupiter, the Temple of Bacchus, and the Temple of Venus. Nestled in the Bekaa Valley, Baalbek offers visitors a unique glimpse into ancient history, with stunning architecture that reflects its significance as a center of worship and pilgrimage in antiquity. The city hosts the annual Baalbek International Festival, showcasing music and arts against the backdrop of its historic temples. Don't miss the opportunity to explore the vibrant local markets and savor traditional Lebanese cuisine while enjoying the breathtaking views of the surrounding mountains.",
+          "images": [
+            "https://crm.visit-lebanon.org/alternatedocroots/7c8210d5-3917-40b3-b2d7-73a197a2f4ca-shutterstock_373233778.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/a7306b5b-a97e-48af-9ac8-805da95952b1-shutterstock_1041411607.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/626e133f-4c44-4a97-98f2-0a314ddd21fa-shutterstock_615098444.jpg",
+            "https://nawafir-tours.com/wp-content/uploads/2023/11/Baalbek-09.jpg",
+            "https://img.freepik.com/premium-photo/ruins-ancient-city-baalbek-lebanon_868179-134.jpg?w=900",
+            "https://crm.visit-lebanon.org/alternatedocroots/c9358294-b57b-45b0-8175-a58d51506638-shutterstock_215886847.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/aa80f612-f381-4276-80cf-d7ec270f2bc7-shutterstock_51945778.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/2d1c9a92-dd49-4e91-b65c-7bdf32a06c7f-shutterstock_661181824.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/cc544159-2ade-44d8-98f3-f3f5c8ae57d6-shutterstock_724532998.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/7692746f-260b-40c1-957d-7a64a5726f95-shutterstock_1022736928.jpg"
+          ],
+          "entrance": "$10 per person",
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d422727.8988463228!2d36.2509678!3d34.131968699999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15189651c27cbfaf%3A0xc044bcb62fbbe03c!2sBaalbek!5e0!3m2!1sen!2slb!4v1730583543256!5m2!1sen!2slb",
+          "stars": 5
+        },
+        {
+          "id": "baalbek",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ff/b0/9a/hajar-al-hibla.jpg?w=900&h=500&s=1",
+          "title": "Hajar al-Hibla",
+          "shortDesc": "The city where ancient Roman grandeur meets timeless mystique in Lebanon's majestic temple ruins.",
+          "content": "Discover the ancient temples of Baalbek.",
+          "hist": "Baalbek, often referred to as the \"City of the Sun,\" is a UNESCO World Heritage Site renowned for its spectacular Roman ruins, including the majestic Temple of Jupiter, the Temple of Bacchus, and the Temple of Venus. Nestled in the Bekaa Valley, Baalbek offers visitors a unique glimpse into ancient history, with stunning architecture that reflects its significance as a center of worship and pilgrimage in antiquity. The city hosts the annual Baalbek International Festival, showcasing music and arts against the backdrop of its historic temples. Don't miss the opportunity to explore the vibrant local markets and savor traditional Lebanese cuisine while enjoying the breathtaking views of the surrounding mountains.",
+          "images": [
+            "https://crm.visit-lebanon.org/alternatedocroots/7c8210d5-3917-40b3-b2d7-73a197a2f4ca-shutterstock_373233778.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/a7306b5b-a97e-48af-9ac8-805da95952b1-shutterstock_1041411607.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/626e133f-4c44-4a97-98f2-0a314ddd21fa-shutterstock_615098444.jpg",
+            "https://nawafir-tours.com/wp-content/uploads/2023/11/Baalbek-09.jpg",
+            "https://img.freepik.com/premium-photo/ruins-ancient-city-baalbek-lebanon_868179-134.jpg?w=900",
+            "https://crm.visit-lebanon.org/alternatedocroots/c9358294-b57b-45b0-8175-a58d51506638-shutterstock_215886847.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/aa80f612-f381-4276-80cf-d7ec270f2bc7-shutterstock_51945778.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/2d1c9a92-dd49-4e91-b65c-7bdf32a06c7f-shutterstock_661181824.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/cc544159-2ade-44d8-98f3-f3f5c8ae57d6-shutterstock_724532998.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/7692746f-260b-40c1-957d-7a64a5726f95-shutterstock_1022736928.jpg"
+          ],
+          "entrance": "$10 per person",
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d422727.8988463228!2d36.2509678!3d34.131968699999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15189651c27cbfaf%3A0xc044bcb62fbbe03c!2sBaalbek!5e0!3m2!1sen!2slb!4v1730583543256!5m2!1sen!2slb",
+          "stars": 3
+        },
+        {
+          "id": "baalbek",
+          "image": "https://i.redd.it/2uq74kp659v51.jpg",
+          "title": "Saydet Bechwat",
+          "shortDesc": "The city where ancient Roman grandeur meets timeless mystique in Lebanon's majestic temple ruins.",
+          "content": "Discover the ancient temples of Baalbek.",
+          "hist": "Baalbek, often referred to as the \"City of the Sun,\" is a UNESCO World Heritage Site renowned for its spectacular Roman ruins, including the majestic Temple of Jupiter, the Temple of Bacchus, and the Temple of Venus. Nestled in the Bekaa Valley, Baalbek offers visitors a unique glimpse into ancient history, with stunning architecture that reflects its significance as a center of worship and pilgrimage in antiquity. The city hosts the annual Baalbek International Festival, showcasing music and arts against the backdrop of its historic temples. Don't miss the opportunity to explore the vibrant local markets and savor traditional Lebanese cuisine while enjoying the breathtaking views of the surrounding mountains.",
+          "images": [
+            "https://crm.visit-lebanon.org/alternatedocroots/7c8210d5-3917-40b3-b2d7-73a197a2f4ca-shutterstock_373233778.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/a7306b5b-a97e-48af-9ac8-805da95952b1-shutterstock_1041411607.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/626e133f-4c44-4a97-98f2-0a314ddd21fa-shutterstock_615098444.jpg",
+            "https://nawafir-tours.com/wp-content/uploads/2023/11/Baalbek-09.jpg",
+            "https://img.freepik.com/premium-photo/ruins-ancient-city-baalbek-lebanon_868179-134.jpg?w=900",
+            "https://crm.visit-lebanon.org/alternatedocroots/c9358294-b57b-45b0-8175-a58d51506638-shutterstock_215886847.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/aa80f612-f381-4276-80cf-d7ec270f2bc7-shutterstock_51945778.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/2d1c9a92-dd49-4e91-b65c-7bdf32a06c7f-shutterstock_661181824.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/cc544159-2ade-44d8-98f3-f3f5c8ae57d6-shutterstock_724532998.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/7692746f-260b-40c1-957d-7a64a5726f95-shutterstock_1022736928.jpg"
+          ],
+          "entrance": "$10 per person",
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d422727.8988463228!2d36.2509678!3d34.131968699999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15189651c27cbfaf%3A0xc044bcb62fbbe03c!2sBaalbek!5e0!3m2!1sen!2slb!4v1730583543256!5m2!1sen!2slb",
+          "stars": 5
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Beirut",
+      "district_locations": []
+    },
+    {
+      "id": "4",
+      "name": "Beqaa",
+      "district_locations": []
+    },
+    {
+      "id": "5",
+      "name": "Keserwen-Jbeil",
+      "district_locations": [
+        {
+          "id": "byblos",
+          "image": "https://crm.visit-lebanon.org/alternatedocroots/4ea5f2ee-0f17-42d4-8cc8-8dfcd53d8abf-shutterstock_582999004.jpg",
+          "title": "Byblos",
+          "shortDesc": "The city where civilization began, with layers of history that span thousands of years.",
+          "content": "Visit the ancient port city of Byblos.",
+          "hist": "Byblos, one of the oldest continuously inhabited cities in the world, is a UNESCO World Heritage Site that showcases a fascinating history dating back over 7,000 years. This coastal city is famous for its ancient ruins, including the Crusader Castle, Roman amphitheater, and impressive Phoenician temples. Byblos also boasts a charming old town with cobblestone streets, vibrant markets, and waterfront dining options. Visitors can enjoy a rich cultural experience, including exploring local crafts and savoring traditional Lebanese dishes while taking in stunning views of the Mediterranean Sea.",
+          "images": [
+            "https://crm.visit-lebanon.org/alternatedocroots/4ec482f5-8615-4f85-aa8c-a956ed289982-shutterstock_152891102.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/2b24373f-21b6-40a9-a3ac-2169030803cd-shutterstock_728306509.jpg",
+            "https://t4.ftcdn.net/jpg/03/54/53/55/360_F_354535586_yYmumvUMfQRtIzgfoBg6VN6RAlWm9ZAy.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/1f3ed435-f880-4da3-a2a9-a68d4c6a096e-shutterstock_404545720.jpg",
+            "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d7/c8/45.jpg"
+          ],
+          "entrance": "$10 per person",
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13211.648146110054!2d35.6519282!3d34.123001599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f5ca814ab769b%3A0xbe47735b265d616e!2sByblos!5e0!3m2!1sen!2slb!4v1730585570605!5m2!1sen!2slb",
+          "stars": 4
+        },
+        {
+          "id": "byblos",
+          "image": "https://www.lebanontraveler.com/wp-content/uploads/2023/04/jabal-moussa-.jpg",
+          "title": "Jabal Moussa Biosphere",
+          "shortDesc": "The city where civilization began, with layers of history that span thousands of years.",
+          "content": "Visit the ancient port city of Byblos.",
+          "hist": "Byblos, one of the oldest continuously inhabited cities in the world, is a UNESCO World Heritage Site that showcases a fascinating history dating back over 7,000 years. This coastal city is famous for its ancient ruins, including the Crusader Castle, Roman amphitheater, and impressive Phoenician temples. Byblos also boasts a charming old town with cobblestone streets, vibrant markets, and waterfront dining options. Visitors can enjoy a rich cultural experience, including exploring local crafts and savoring traditional Lebanese dishes while taking in stunning views of the Mediterranean Sea.",
+          "images": [
+            "https://crm.visit-lebanon.org/alternatedocroots/4ec482f5-8615-4f85-aa8c-a956ed289982-shutterstock_152891102.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/2b24373f-21b6-40a9-a3ac-2169030803cd-shutterstock_728306509.jpg",
+            "https://t4.ftcdn.net/jpg/03/54/53/55/360_F_354535586_yYmumvUMfQRtIzgfoBg6VN6RAlWm9ZAy.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/1f3ed435-f880-4da3-a2a9-a68d4c6a096e-shutterstock_404545720.jpg",
+            "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d7/c8/45.jpg"
+          ],
+          "entrance": "$10 per person",
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13211.648146110054!2d35.6519282!3d34.123001599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f5ca814ab769b%3A0xbe47735b265d616e!2sByblos!5e0!3m2!1sen!2slb!4v1730585570605!5m2!1sen!2slb",
+          "stars": 4
+        },
+        {
+          "id": "byblos",
+          "image": "https://www.lebanontraveler.com/wp-content/uploads/2023/04/harissa.jpg",
+          "title": "Harissa",
+          "shortDesc": "The city where civilization began, with layers of history that span thousands of years.",
+          "content": "Visit the ancient port city of Byblos.",
+          "hist": "Byblos, one of the oldest continuously inhabited cities in the world, is a UNESCO World Heritage Site that showcases a fascinating history dating back over 7,000 years. This coastal city is famous for its ancient ruins, including the Crusader Castle, Roman amphitheater, and impressive Phoenician temples. Byblos also boasts a charming old town with cobblestone streets, vibrant markets, and waterfront dining options. Visitors can enjoy a rich cultural experience, including exploring local crafts and savoring traditional Lebanese dishes while taking in stunning views of the Mediterranean Sea.",
+          "images": [
+            "https://crm.visit-lebanon.org/alternatedocroots/4ec482f5-8615-4f85-aa8c-a956ed289982-shutterstock_152891102.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/2b24373f-21b6-40a9-a3ac-2169030803cd-shutterstock_728306509.jpg",
+            "https://t4.ftcdn.net/jpg/03/54/53/55/360_F_354535586_yYmumvUMfQRtIzgfoBg6VN6RAlWm9ZAy.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/1f3ed435-f880-4da3-a2a9-a68d4c6a096e-shutterstock_404545720.jpg",
+            "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d7/c8/45.jpg"
+          ],
+          "entrance": "$10 per person",
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13211.648146110054!2d35.6519282!3d34.123001599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f5ca814ab769b%3A0xbe47735b265d616e!2sByblos!5e0!3m2!1sen!2slb!4v1730585570605!5m2!1sen!2slb",
+          "stars": 4
+        },
+        {
+          "id": "byblos",
+          "image": "https://www.lebanontraveler.com/wp-content/uploads/2023/04/chabrouh-dam-1920x1280.jpg",
+          "title": "Chabrouh Dam",
+          "shortDesc": "The city where civilization began, with layers of history that span thousands of years.",
+          "content": "Visit the ancient port city of Byblos.",
+          "hist": "Byblos, one of the oldest continuously inhabited cities in the world, is a UNESCO World Heritage Site that showcases a fascinating history dating back over 7,000 years. This coastal city is famous for its ancient ruins, including the Crusader Castle, Roman amphitheater, and impressive Phoenician temples. Byblos also boasts a charming old town with cobblestone streets, vibrant markets, and waterfront dining options. Visitors can enjoy a rich cultural experience, including exploring local crafts and savoring traditional Lebanese dishes while taking in stunning views of the Mediterranean Sea.",
+          "images": [
+            "https://crm.visit-lebanon.org/alternatedocroots/4ec482f5-8615-4f85-aa8c-a956ed289982-shutterstock_152891102.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/2b24373f-21b6-40a9-a3ac-2169030803cd-shutterstock_728306509.jpg",
+            "https://t4.ftcdn.net/jpg/03/54/53/55/360_F_354535586_yYmumvUMfQRtIzgfoBg6VN6RAlWm9ZAy.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/1f3ed435-f880-4da3-a2a9-a68d4c6a096e-shutterstock_404545720.jpg",
+            "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d7/c8/45.jpg"
+          ],
+          "entrance": "$10 per person",
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13211.648146110054!2d35.6519282!3d34.123001599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f5ca814ab769b%3A0xbe47735b265d616e!2sByblos!5e0!3m2!1sen!2slb!4v1730585570605!5m2!1sen!2slb",
+          "stars": 4
+        },
+        {
+          "id": "byblos",
+          "image": "https://www.lebanontraveler.com/wp-content/uploads/2023/04/mar-charbel-faraya.jpg",
+          "title": "St Charbel  Faraya",
+          "shortDesc": "The city where civilization began, with layers of history that span thousands of years.",
+          "content": "Visit the ancient port city of Byblos.",
+          "hist": "Byblos, one of the oldest continuously inhabited cities in the world, is a UNESCO World Heritage Site that showcases a fascinating history dating back over 7,000 years. This coastal city is famous for its ancient ruins, including the Crusader Castle, Roman amphitheater, and impressive Phoenician temples. Byblos also boasts a charming old town with cobblestone streets, vibrant markets, and waterfront dining options. Visitors can enjoy a rich cultural experience, including exploring local crafts and savoring traditional Lebanese dishes while taking in stunning views of the Mediterranean Sea.",
+          "images": [
+            "https://crm.visit-lebanon.org/alternatedocroots/4ec482f5-8615-4f85-aa8c-a956ed289982-shutterstock_152891102.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/2b24373f-21b6-40a9-a3ac-2169030803cd-shutterstock_728306509.jpg",
+            "https://t4.ftcdn.net/jpg/03/54/53/55/360_F_354535586_yYmumvUMfQRtIzgfoBg6VN6RAlWm9ZAy.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/1f3ed435-f880-4da3-a2a9-a68d4c6a096e-shutterstock_404545720.jpg",
+            "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d7/c8/45.jpg"
+          ],
+          "entrance": "$10 per person",
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13211.648146110054!2d35.6519282!3d34.123001599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f5ca814ab769b%3A0xbe47735b265d616e!2sByblos!5e0!3m2!1sen!2slb!4v1730585570605!5m2!1sen!2slb",
+          "stars": 4
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Nabatieh",
+      "district_locations": []
+    },
+    {
+      "id": "7",
+      "name": "Mount Lebanon",
+      "district_locations": [
+        {
+          "id": "jeita",
+          "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0f/f6/2d/4b.jpg",
+          "title": "Jeita",
+          "shortDesc": "The city where nature's artistry is unveiled in stunning limestone caves, showcasing breathtaking stalactites and stalagmites",
+          "content": "Explore the vibrant city life of Beirut.",
+          "hist": "Jeita Grotto is a stunning natural wonder located just outside of Beirut, Lebanon. It features two interconnected limestone caves, known for their impressive stalactite and stalagmite formations, which have been formed over millions of years. Visitors can explore the lower cave by boat, gliding through crystal-clear waters, while the upper cave offers well-lit walking paths for easy access to its magnificent geological features. The grotto is a UNESCO World Heritage site and is surrounded by lush greenery, providing a picturesque setting for photography and leisurely walks. With its breathtaking beauty, Jeita Grotto is a must-visit destination for tourists seeking to experience Lebanon's natural splendor.",
+          "images": [
+            "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/8e/de/9d.jpg",
+            "https://lebanonuntravelled.com/wp/wp-content/uploads/2022/08/photo_5942991516886743226_y.jpg",
+            "https://runway27l.co.uk/wp-content/uploads/2018/10/8-10.jpg",
+            "https://livelovelebanon.wordpress.com/wp-content/uploads/2016/05/jee.jpg?w=300",
+            "https://livelovelebanon.wordpress.com/wp-content/uploads/2016/05/je.jpg"
+          ],
+          "entrance": "$18 per adult, $12 for students and $9 for kids under 9 years old",
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3309.9043434506966!2d35.63621452493672!3d33.94358831424335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f17215880a78f%3A0x3df0a81262949b78!2sJeita%20Grotto!5e0!3m2!1sen!2slb!4v1730585037209!5m2!1sen!2slb",
+          "stars": 4.7
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "North Lebanon",
+      "district_locations": [
+        {
+          "id": "tripoli",
+          "image": "https://as1.ftcdn.net/v2/jpg/02/46/39/24/1000_F_246392425_xu8NSw7bHcLGSj8Z4AnbBOyFvVrVQHPD.jpg",
+          "title": "Tripoli",
+          "shortDesc": "The city where rich history and vibrant souks reveal the heart of Lebanon's medieval charm.",
+          "content": "Experience the charm of Tripoli's old souks.",
+          "hist": "Tripoli, Lebanon's second-largest city, is known for its rich history and vibrant culture. Renowned for its well-preserved medieval architecture, including the Crusader Castle of St. Gilles and numerous ancient mosques, Tripoli offers visitors a glimpse into its storied past. The bustling souks (markets) are a delight for shoppers, featuring local crafts, spices, and delicious street food. Don't miss the chance to sample Tripoli's famous sweets, especially the delectable knafeh, while exploring this enchanting coastal city.",
+          "images": [
+            "https://travelinglensphotography.com/wp-content/uploads/2022/05/PSX_20220501_160921-copy-1.jpg",
+            "https://travelinglensphotography.com/wp-content/uploads/2022/05/PSX_20220509_193156-copy-2.jpg",
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/e4/f0/fa/the-clock-tower.jpg?w=500&h=400&s=1",
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/8a/cd/c4/taynal-mosque.jpg?w=800&h=400&s=1",
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/77/7a/b3/al-shoker-mosque.jpg?w=500&h=-1&s=1"
+          ],
+          "entrance": "for free",
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52655.44150664326!2d35.84582475!3d34.42764175000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1521f6ab9db89d33%3A0x323c52527dde8578!2sTripoli!5e0!3m2!1sen!2slb!4v1730585925152!5m2!1sen!2slb",
+          "stars": 4.5
+        },
+        {
+          "id": "tripoli",
+          "image": "https://www.bohemianvagabond.com/wp-content/uploads/2019/04/IMG_9228.jpeg",
+          "title": "Batroun",
+          "shortDesc": "The city where rich history and vibrant souks reveal the heart of Lebanon's medieval charm.",
+          "content": "Experience the charm of Tripoli's old souks.",
+          "hist": "Tripoli, Lebanon's second-largest city, is known for its rich history and vibrant culture. Renowned for its well-preserved medieval architecture, including the Crusader Castle of St. Gilles and numerous ancient mosques, Tripoli offers visitors a glimpse into its storied past. The bustling souks (markets) are a delight for shoppers, featuring local crafts, spices, and delicious street food. Don't miss the chance to sample Tripoli's famous sweets, especially the delectable knafeh, while exploring this enchanting coastal city.",
+          "images": [
+            "https://travelinglensphotography.com/wp-content/uploads/2022/05/PSX_20220501_160921-copy-1.jpg",
+            "https://travelinglensphotography.com/wp-content/uploads/2022/05/PSX_20220509_193156-copy-2.jpg",
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/e4/f0/fa/the-clock-tower.jpg?w=500&h=400&s=1",
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/8a/cd/c4/taynal-mosque.jpg?w=800&h=400&s=1",
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/77/7a/b3/al-shoker-mosque.jpg?w=500&h=-1&s=1"
+          ],
+          "entrance": "for free",
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52655.44150664326!2d35.84582475!3d34.42764175000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1521f6ab9db89d33%3A0x323c52527dde8578!2sTripoli!5e0!3m2!1sen!2slb!4v1730585925152!5m2!1sen!2slb",
+          "stars": 3
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "South Lebanon",
+      "district_locations": [
+        {
+          "id": "saida",
+          "image": "https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/7WTO65TG6GJGEBJKGGX2CVLI2M.jpg?smart=true&auth=a5ab58dfc8f97d79ce78f276970c94354fb68de21d230d42d3121df0c1d36d39&width=800&height=450",
+          "title": "Saida",
+          "shortDesc": "The city where the coast meets culture, blending ancient Phoenician roots with lively markets.",
+          "content": "Explore the vibrant city life of Saida.",
+          "hist": "Saida, also known as Sidon, is a picturesque coastal city steeped in history, offering a charming blend of ancient ruins and modern attractions. Known for its historic sea castle, the Crusader Castle of Sidon, and the nearby Soap Museum, Sayda invites visitors to explore its rich maritime heritage. The bustling old town features vibrant souks, where you can find local handicrafts and fresh seafood. With its beautiful beaches and delicious cuisine, including the famous Sayda grilled fish, this coastal gem is perfect for a relaxing getaway.",
+          "images": [
+            "https://crm.visit-lebanon.org/alternatedocroots/c9358294-b57b-45b0-8175-a58d51506638-shutterstock_215886847.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/aa80f612-f381-4276-80cf-d7ec270f2bc7-shutterstock_51945778.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/2d1c9a92-dd49-4e91-b65c-7bdf32a06c7f-shutterstock_661181824.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/cc544159-2ade-44d8-98f3-f3f5c8ae57d6-shutterstock_724532998.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/7692746f-260b-40c1-957d-7a64a5726f95-shutterstock_1022736928.jpg"
+          ],
+          "entrance": "unknown for the moment because of the current war",
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26597.502887255967!2d35.37774484999999!3d33.561485399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151ef03ff51e8597%3A0x181e41e3b9ff1086!2sSidon!5e0!3m2!1sen!2slb!4v1730586353910!5m2!1sen!2slb",
+          "stars": 4.5
+        }
+      ]
+    },
+    {
+      "id": "Shouf",
+      "name": "Shouf",
+      "district_locations": [
+        {
+          "id": "saida",
+          "image": "https://crm.visit-lebanon.org/alternatedocroots/c687bc1f-05db-444d-a38b-fa6cfe3ef2c6-shutterstock_483865690.jpg",
+          "title": "Beit el Dine",
+          "shortDesc": "The city where the coast meets culture, blending ancient Phoenician roots with lively markets.",
+          "content": "Explore the vibrant city life of Saida.",
+          "hist": "Saida, also known as Sidon, is a picturesque coastal city steeped in history, offering a charming blend of ancient ruins and modern attractions. Known for its historic sea castle, the Crusader Castle of Sidon, and the nearby Soap Museum, Sayda invites visitors to explore its rich maritime heritage. The bustling old town features vibrant souks, where you can find local handicrafts and fresh seafood. With its beautiful beaches and delicious cuisine, including the famous Sayda grilled fish, this coastal gem is perfect for a relaxing getaway.",
+          "images": [
+            "https://crm.visit-lebanon.org/alternatedocroots/c9358294-b57b-45b0-8175-a58d51506638-shutterstock_215886847.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/aa80f612-f381-4276-80cf-d7ec270f2bc7-shutterstock_51945778.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/2d1c9a92-dd49-4e91-b65c-7bdf32a06c7f-shutterstock_661181824.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/cc544159-2ade-44d8-98f3-f3f5c8ae57d6-shutterstock_724532998.jpg",
+            "https://crm.visit-lebanon.org/alternatedocroots/7692746f-260b-40c1-957d-7a64a5726f95-shutterstock_1022736928.jpg"
+          ],
+          "entrance": "unknown for the moment because of the current war",
+          "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26597.502887255967!2d35.37774484999999!3d33.561485399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151ef03ff51e8597%3A0x181e41e3b9ff1086!2sSidon!5e0!3m2!1sen!2slb!4v1730586353910!5m2!1sen!2slb",
+          "stars": 4.5
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "13b7",
+      "nameI": "Tony",
+      "lnameI": "Kanaan",
+      "emailI": "a@a",
+      "passwordI": "123456"
+    },
+    {
+      "id": "2384",
+      "nameI": "Layal",
+      "lnameI": "E",
+      "emailI": "e@e",
+      "passwordI": "123456"
+    }
+  ]
+}
